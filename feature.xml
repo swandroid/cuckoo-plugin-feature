@@ -20,7 +20,7 @@ rewrite of AIDL files, for computation off-loading.
    </license>
 
    <url>
-      <update label="CuckooPlugin" url="https://raw.github.com/swandroid/cuckoo-plugin-feature/master/exported"/>
+      <update label="CuckooPlugin" url="https://raw.github.com/swandroid/cuckoo-plugin-feature/develop/exported"/>
    </url>
 
    <requires>
